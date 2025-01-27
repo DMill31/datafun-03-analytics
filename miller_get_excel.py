@@ -86,7 +86,7 @@ def main():
     """
     Main function to demonstrate fetching Excel data.
     """
-    excel_url = 'https://github.com/DMill31/datafun-03-files/blob/main/Titanic.xlsx'
+    excel_url = 'https://raw.githubusercontent.com/DMill31/datafun-03-files/main/Titanic.xlsx'
     logger.info("Starting Excel fetch demonstration...")
     fetch_excel_file(fetched_folder_name, "titanic.xlsx", excel_url)
 

@@ -1,6 +1,6 @@
 """
-This file fetches JSON data of a short quiz 
-from the web and saves it to a local file named data/quiz.json.
+This file fetches JSON data of the citiBike NYC status
+from the web and saves it to a local file named data/NYCbike.json.
 """
 
 #####################################
@@ -87,9 +87,9 @@ def main():
     """
     Main function to demonstrate fetching JSON data.
     """
-    json_url = 'https://github.com/DMill31/datafun-03-files/blob/main/example_2.json'
+    json_url = 'https://gbfs.citibikenyc.com/gbfs/en/station_information.json'
     logger.info("Starting JSON fetch demonstration...")
-    fetch_json_file(fetched_folder_name, "quiz.json", json_url)
+    fetch_json_file(fetched_folder_name, "NYCbike.json", json_url)
 
 #####################################
 # Conditional Execution

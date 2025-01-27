@@ -86,7 +86,7 @@ def main():
     """
     Main function to demonstrate fetching text data.
     """
-    txt_url = 'https://github.com/adamdehaven/BTTF-Ipsum/blob/master/BTTF-script.txt'
+    txt_url = 'https://raw.githubusercontent.com/DMill31/datafun-03-files/main/Script.txt'
     logger.info("Starting text fetch demonstration...")
     fetch_txt_file(fetched_folder_name, "BTTF.txt", txt_url)
 

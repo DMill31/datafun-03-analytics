@@ -176,3 +176,50 @@
 2025-01-28 09:15:34.988 | INFO     | __main__:<module>:65 - Starting Excel processing...
 2025-01-28 09:15:35.065 | INFO     | __main__:process_excel_file:58 - Processed Excel file: data\titanic.xlsx, Word count saved to: data_processed\titanic_sex_count.txt
 2025-01-28 09:15:35.065 | INFO     | __main__:<module>:67 - Excel processing complete.
+2025-01-28 09:41:18.445 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:41:18.445 | INFO     | __main__:<module>:102 - Starting JSON processing...
+2025-01-28 09:41:18.456 | INFO     | __main__:process_json_file:95 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:41:18.456 | INFO     | __main__:<module>:104 - JSON processing complete.
+2025-01-28 09:47:05.239 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:47:05.239 | INFO     | __main__:<module>:102 - Starting JSON processing...
+2025-01-28 09:47:05.249 | INFO     | __main__:process_json_file:95 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:47:05.249 | INFO     | __main__:<module>:104 - JSON processing complete.
+2025-01-28 09:47:32.707 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:47:32.707 | INFO     | __main__:<module>:103 - Starting JSON processing...
+2025-01-28 09:47:32.718 | INFO     | __main__:process_json_file:96 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:47:32.718 | INFO     | __main__:<module>:105 - JSON processing complete.
+2025-01-28 09:47:49.523 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:47:49.523 | INFO     | __main__:<module>:104 - Starting JSON processing...
+2025-01-28 09:47:49.534 | INFO     | __main__:process_json_file:97 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:47:49.534 | INFO     | __main__:<module>:106 - JSON processing complete.
+2025-01-28 09:48:25.700 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:48:25.700 | INFO     | __main__:<module>:103 - Starting JSON processing...
+2025-01-28 09:48:25.711 | INFO     | __main__:process_json_file:96 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:48:25.712 | INFO     | __main__:<module>:105 - JSON processing complete.
+2025-01-28 09:50:17.160 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:50:17.160 | INFO     | __main__:<module>:105 - Starting JSON processing...
+2025-01-28 09:50:17.339 | INFO     | __main__:process_json_file:98 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:50:17.340 | INFO     | __main__:<module>:107 - JSON processing complete.
+2025-01-28 09:50:46.381 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:50:46.381 | INFO     | __main__:<module>:103 - Starting JSON processing...
+2025-01-28 09:50:46.566 | ERROR    | __main__:count_stations_by_region_id:80 - Error reading or processing JSON file: 'str' object has no attribute 'get'
+2025-01-28 09:50:46.567 | INFO     | __main__:process_json_file:96 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:50:46.568 | INFO     | __main__:<module>:105 - JSON processing complete.
+2025-01-28 09:51:11.626 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:51:11.626 | INFO     | __main__:<module>:103 - Starting JSON processing...
+2025-01-28 09:51:11.802 | ERROR    | __main__:count_stations_by_region_id:80 - Error reading or processing JSON file: 'str' object has no attribute 'get'
+2025-01-28 09:51:11.804 | INFO     | __main__:process_json_file:96 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:51:11.804 | INFO     | __main__:<module>:105 - JSON processing complete.
+2025-01-28 09:52:31.219 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:52:31.219 | INFO     | __main__:<module>:103 - Starting JSON processing...
+2025-01-28 09:52:31.228 | ERROR    | __main__:count_stations_by_region_id:80 - Error reading or processing JSON file: 'str' object has no attribute 'get'
+2025-01-28 09:52:31.229 | INFO     | __main__:process_json_file:96 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:52:31.229 | INFO     | __main__:<module>:105 - JSON processing complete.
+2025-01-28 09:54:55.296 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:54:55.296 | INFO     | __main__:<module>:102 - Starting JSON processing...
+2025-01-28 09:54:55.307 | INFO     | __main__:process_json_file:95 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:54:55.307 | INFO     | __main__:<module>:104 - JSON processing complete.
+2025-01-28 09:56:44.359 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:56:44.359 | INFO     | __main__:<module>:102 - Starting JSON processing...
+2025-01-28 09:56:44.370 | INFO     | __main__:process_json_file:95 - Processed JSON file: data\NYCbike.json, Results saved to: data_processed\bike_regions.txt
+2025-01-28 09:56:44.370 | INFO     | __main__:<module>:104 - JSON processing complete.

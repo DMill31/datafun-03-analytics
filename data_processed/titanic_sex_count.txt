@@ -1,0 +1,2 @@
+Number of men aboard the Titanic: 577
+Number of women aboard the Titanic: 314

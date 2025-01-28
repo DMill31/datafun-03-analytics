@@ -168,3 +168,11 @@
 2025-01-27 18:27:24.812 | INFO     | __main__:<module>:78 - Starting CSV processing...
 2025-01-27 18:27:24.813 | INFO     | __main__:process_csv_file:71 - Processed CSV file: data\obesity.csv, Statistics saved to: data_processed\obesity_stats.txt
 2025-01-27 18:27:24.813 | INFO     | __main__:<module>:80 - CSV processing complete.
+2025-01-28 09:14:17.136 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:14:17.137 | INFO     | __main__:<module>:64 - Starting Excel processing...
+2025-01-28 09:14:17.208 | INFO     | __main__:process_excel_file:57 - Processed Excel file: data\titanic.xlsx, Word count saved to: data_processed\titanic_sex_count.txt
+2025-01-28 09:14:17.208 | INFO     | __main__:<module>:66 - Excel processing complete.
+2025-01-28 09:15:34.988 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-28 09:15:34.988 | INFO     | __main__:<module>:65 - Starting Excel processing...
+2025-01-28 09:15:35.065 | INFO     | __main__:process_excel_file:58 - Processed Excel file: data\titanic.xlsx, Word count saved to: data_processed\titanic_sex_count.txt
+2025-01-28 09:15:35.065 | INFO     | __main__:<module>:67 - Excel processing complete.

@@ -30,7 +30,7 @@ miller_get_excel.py \
 miller_get_json.py \
     - Fetcher that fetches a JSON file about NYC CitiBike stations from the web \
 miller_get_text.py \
-    - Fetcher that fetches a text file of the script of the Back to the Future trilogy from the web \
+    - Fetcher that fetches a text file of the script of the Back to the Future trilogy from the web 
 
 ## Processors
 
@@ -41,4 +41,4 @@ miller_process_excel.py \
 miller_process_json.py \
     - Processor that processes a JSON file about NYC CitiBike stations and listing how many stations are from each region \
 miller_process_text.py \
-    - Processor that processes a text file of the scripts from the Back to the Future trilogy and counting how many times the phrase "Great Scott" is said \
+    - Processor that processes a text file of the scripts from the Back to the Future trilogy and counting how many times the phrase "Great Scott" is said 

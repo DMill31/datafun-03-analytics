@@ -164,3 +164,7 @@
 2025-01-27 13:35:26.256 | INFO     | __main__:write_excel_file:73 - Writing Excel data to data\titanic.xlsx...
 2025-01-27 13:35:26.257 | INFO     | __main__:write_excel_file:77 - SUCCESS: Excel data written to data\titanic.xlsx
 2025-01-27 13:35:26.257 | INFO     | __main__:fetch_excel_file:53 - SUCCESS: Excel file fetched and saved as titanic.xlsx
+2025-01-27 18:27:24.812 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-01-27 18:27:24.812 | INFO     | __main__:<module>:78 - Starting CSV processing...
+2025-01-27 18:27:24.813 | INFO     | __main__:process_csv_file:71 - Processed CSV file: data\obesity.csv, Statistics saved to: data_processed\obesity_stats.txt
+2025-01-27 18:27:24.813 | INFO     | __main__:<module>:80 - CSV processing complete.

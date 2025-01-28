@@ -42,3 +42,23 @@ miller_process_json.py \
     - Processor that processes a JSON file about NYC CitiBike stations and listing how many stations are from each region \
 miller_process_text.py \
     - Processor that processes a text file of the scripts from the Back to the Future trilogy and counting how many times the phrase "Great Scott" is said 
+
+## Execution Commands
+
+**Fetchers**
+
+```shell
+py miller_get_csv.py
+py miller_get_excel.py
+py miller_get_json.py
+py miller_get_text.py
+```
+
+**Processors**
+
+```shell
+py miller_process_csv.py
+py miller_process_excel.py
+py miller_process_json.py
+py miller_process_text.py
+```
